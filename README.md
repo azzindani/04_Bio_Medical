@@ -29,6 +29,11 @@ Click the button below to launch the dataset preview notebook:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 ---
 
+## 🔐 Authentication Note
+
+Some biomedical models published by Microsoft on Hugging Face require accepting usage terms and **authentication using a Hugging Face token**.
+
+---
 ## 📦 How to Use Explained by Microsoft
 
 ---
