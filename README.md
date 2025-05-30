@@ -22,6 +22,13 @@ The implementation uses the official model checkpoint shared by Microsoft on Hug
 📌 Model: [`microsoft/BiomedParse`](https://huggingface.co/microsoft/BiomedParse) 
 
 ---
+
+## 🛠️ Local or Cloud Docker Set Up
+
+Run this model locally by setting up the docker on windows, linux, or any cloud service. Read this step by step installation guide in this link [biomed](https://github.com/azzindani/05_Dockerfiles/tree/main/biomed)
+
+---
+
 ## 🚀 Open in Colab
 
 Click the button below to launch the dataset preview notebook:
